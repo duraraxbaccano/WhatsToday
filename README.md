@@ -1,4 +1,4 @@
-dependecy:
+dependecy:\n<br>
 	android-support-library-v4
 	ViewPagerIndicator -open source on Github
 Create by cs104 of UT Taiwan
