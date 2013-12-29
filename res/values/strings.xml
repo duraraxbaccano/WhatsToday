@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhatsToday</string>
+    <string name="action_settings">Settings</string>
+    <string name="lucky_title">今日運勢</string>
+    <string name="lucky_content">專題毫無進度</string>
+    <string name="Virgo">處女座</string>
+    <string name="hello_world"/>
+
+</resources>
