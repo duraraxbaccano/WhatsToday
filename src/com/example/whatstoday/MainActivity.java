@@ -49,7 +49,7 @@ public class MainActivity extends FragmentActivity {
 
         @Override
         public Fragment getItem(int position) {
-            return TestFragment.newInstance(CONTENT[position % CONTENT.length]);
+            return LuckyFragment.newInstance(CONTENT[position % CONTENT.length]);
         }
 
         @Override
