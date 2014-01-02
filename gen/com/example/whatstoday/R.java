@@ -381,20 +381,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int vpi__tab_unselected_pressed_holo=0x7f02001e;
     }
     public static final class id {
-        public static final int action_settings=0x7f04000d;
+        public static final int action_settings=0x7f04000e;
         public static final int bottom=0x7f040003;
-        public static final int constellation=0x7f04000a;
-        public static final int indicator=0x7f04000b;
-        public static final int lucky_content=0x7f040008;
-        public static final int lucky_rate=0x7f040009;
+        public static final int constellation=0x7f040005;
+        public static final int indicator=0x7f04000c;
+        public static final int lucky_content=0x7f040009;
+        public static final int lucky_rate=0x7f04000a;
         public static final int lucky_scroll=0x7f040006;
-        public static final int lucky_title=0x7f040007;
+        public static final int lucky_title=0x7f040008;
         public static final int none=0x7f040000;
-        public static final int pager=0x7f04000c;
-        public static final int role=0x7f040005;
+        public static final int pager=0x7f04000d;
+        public static final int role=0x7f040007;
         public static final int top=0x7f040004;
         public static final int triangle=0x7f040001;
         public static final int underline=0x7f040002;
+        public static final int weather=0x7f04000b;
     }
     public static final class integer {
         public static final int default_circle_indicator_orientation=0x7f070000;
