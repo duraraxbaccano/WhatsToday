@@ -195,7 +195,7 @@ public class Weather {
 								saveXML(current,xpp,"PoP");
 								xpp.nextTag(); //</weather-elements>
 								xpp.nextTag(); //</location>
-								xpp.require(XmlPullParser.END_TAG, null,"loaction");
+								xpp.require(XmlPullParser.END_TAG, null,"location");
 							}
 							else
 								;
